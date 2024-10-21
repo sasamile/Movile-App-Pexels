@@ -1,0 +1,5 @@
+
+# GET https://api.pexels.com/v1/search?query=people
+GET https://api.pexels.com/v1/curated?page=2&per_page=40/search?query=people
+Authorization: 5hJaGveD2BWSZibD2L899eFiUa4caqTihTv4EKeUsvjX8KfN2jf92gCP
+
